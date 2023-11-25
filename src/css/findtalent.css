@@ -1,0 +1,44 @@
+.Top_Railtel_freelancers{
+    font-size: 25px !important;
+}
+.leftSideTab{
+    border: 1px solid rgb(81, 25, 101);
+    padding: 10px;
+    border-radius: 4px;
+}
+.RightSidePart{
+    border: 1px solid rgb(98, 12, 91);
+    padding: 10px;
+    border-radius: 4px;
+}
+.NavItemsTabsDas{
+    font-size: 15px;
+    width: 100%;
+    text-align: left;
+    color: black;
+    background-color: none !important;
+}
+.RailtelSearchFilter{
+    outline: none !important;
+    box-shadow: none !important;
+    border: 0.5 solid rgb(74, 74, 74) !important;
+    width: 50% !important;
+}
+.RailtelSearchFilter:focus{
+    outline: none !important;
+    box-shadow: none !important;
+    border: 0.5 solid rgb(74, 74, 74) !important;
+}
+.RailtelSearchSelect{
+    outline: none !important;
+    box-shadow: none !important;
+    border: 0.5 solid rgb(74, 74, 74) !important; 
+}
+.RailtelSearchSelect:focus{
+    outline: none !important;
+    box-shadow: none !important;
+    border: 0.5 solid rgb(74, 74, 74) !important;
+}
+.SearchSHowResultCard{
+    background-color: rgba(255, 0, 242, 0.426);
+}
